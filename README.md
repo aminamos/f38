@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Making changes to the README to fix an issue, as a way to test project card automation
 
 Things you may want to cover:
 
